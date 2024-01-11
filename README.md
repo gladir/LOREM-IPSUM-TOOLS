@@ -11,6 +11,10 @@ Voici la liste des différents fichiers proposés dans LOREM-IPSUM-TOOLS :
     <th>Description</th>
    </tr>
   <tr>
+    <td><b>COSMIC.PAS</b></td>
+    <td>Cette commande permet de générer du texte aléatoire d'astronomie (Cosmic Ipsum).</td>
+  </tr>
+  <tr>
      <td><b>LOREM.PAS</b></td>
      <td>Cette commande permet de générer du texte aléatoirement (Lorem Ipsum).</td>
   </tr>
