@@ -10,6 +10,10 @@ Voici la liste des différents fichiers proposés dans LOREM-IPSUM-TOOLS :
     <th>Commande</th>
     <th>Description</th>
    </tr>
+<tr>
+	<td><b>AGILE.PAS</b></td>
+	<td>Cette commande permet de générer du texte aléatoire de méthodologie d'Agile (Agile Ipsum).</td>
+</tr>
   <tr>
     <td><b>COSMIC.PAS</b></td>
     <td>Cette commande permet de générer du texte aléatoire d'astronomie (Cosmic Ipsum).</td>
