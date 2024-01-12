@@ -12,7 +12,7 @@ Const
  Words:Array[0..122]of PChar=(
   'agile','ipsum','Product Owner','Developer','Scrum Master',
   'Stakeholder','Release Train Engineer','Product Manager',
-  'Jira Engineer','\"DevOps\" guy','10x Engineer',
+  'Jira Engineer','"DevOps" guy','10x Engineer',
   'Developer Advocate','Enterprise Architect','Vendor Management',
   'CTO','CEO','Agile Coach','agile','sprint','SAFe','comfagile',
   'scrum','retrospective','feature','milestone','planning',
