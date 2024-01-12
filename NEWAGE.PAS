@@ -166,11 +166,11 @@ Var
 BEGIN
  If(ParamStr(1)='/?')or(ParamStr(1)='--help')or(ParamStr(1)='-h')or
    (ParamStr(1)='/h')or(ParamStr(1)='/H')Then Begin
-  WriteLn('AGILE : Cette commande permet de g‚n‚rer du ',
-                      'texte al‚atoirement sur la m‚thodologie ',
-                      'd''agilit‚ (Agile Ipsum).');
+  WriteLn('NEWAGE : Cette commande permet de g‚n‚rer du ',
+                      'texte al‚atoirement sur le nouvelle ',
+                      'age (Newage Ipsum).');
   WriteLn;
-  WriteLn('Syntaxe : AGILE longueur');
+  WriteLn('Syntaxe : NEWAGE longueur');
   WriteLn;
   WriteLn(' longueur  Ce parametre permet d''indiquer le nombre de mots a g‚n‚rer');
  End
