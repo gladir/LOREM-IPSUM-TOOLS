@@ -22,6 +22,10 @@ Voici la liste des différents fichiers proposés dans LOREM-IPSUM-TOOLS :
      <td><b>LOREM.PAS</b></td>
      <td>Cette commande permet de générer du texte aléatoirement (Lorem Ipsum).</td>
   </tr>
+	<tr>
+		<td><b>NEWAGE.PAS</b></td>
+		<td>Cette commande permet de générer du texte aléatoirement surle nouvelle âge (Newage Ipsum).</td>
+	</tr>
 </table>
 
 <h2>Compilation</h2>
